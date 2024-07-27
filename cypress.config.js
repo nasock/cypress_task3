@@ -1,6 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: 'iq2mrp',
   e2e: {
     watchForFileChanges: false,
     setupNodeEvents(on, config) {
