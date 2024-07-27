@@ -10,3 +10,5 @@ jobs:
       # and run all Cypress tests
       - name: Cypress run
         uses: cypress-io/github-action@v6
+       env:
+          CYPRESS_RECORD_KEY: 8bb5a37c-2834-4c91-83c2-06bb7d2ad6ca
