@@ -10,6 +10,8 @@
 4) launch a pipeline on **Github**
 
 ## steps to install:
+Requirements: Node.js (>= 18.x)
+
 Clone the project
 Navigate to the project directory
 Install the dependencies npm install
